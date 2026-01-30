@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**michal1298/michal1298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Technology enthusiast focused on **Python**, **AI**, and **DevOps**.
 
-Here are some ideas to get you started:
+## 💻 Technologies & Interests
+- 🐍 **Python** - Development and automation
+- 🤖 **AI** - Leveraging AI-powered tools for code improvement
+- 🔧 **DevOps** - CI/CD automation and infrastructure as code
+- 🏢 **On-Premises Infrastructure** - Self-hosted solutions and system administration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Current Focus
+- Building Python solutions for real-world problems
+- Exploring practical AI applications
+- Developing DevOps workflows for on-premises environments
+- Contributing to open-source projects
+
+## 📫 Connect
+Explore my repositories or reach out on LinkedIn to collaborate!
