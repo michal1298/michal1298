@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate technology enthusiast with a strong focus on **Python**, **AI**, and **DevOps**. I believe in the power of on-premise solutions and enjoy building robust, scalable systems that deliver real value.
+I'm a passionate technology enthusiast with a strong focus on **Python**, **AI**, and **DevOps**. I believe in the power of on-premises solutions and enjoy building robust, scalable systems that deliver real value.
 
 ## 💻 Technologies & Interests
 
@@ -13,7 +13,7 @@ I'm a passionate technology enthusiast with a strong focus on **Python**, **AI**
 
 ### DevOps & Infrastructure
 - 🔧 **DevOps** - CI/CD pipelines, automation, and infrastructure as code
-- 🏢 **On-Premise Environments** - Building and managing self-hosted solutions
+- 🏢 **On-Premises Environments** - Building and managing self-hosted solutions
 - ⚙️ System administration and infrastructure management
 - 🐳 Containerization and orchestration
 
@@ -21,7 +21,7 @@ I'm a passionate technology enthusiast with a strong focus on **Python**, **AI**
 
 - Developing Python-based solutions for real-world problems
 - Exploring AI/ML technologies and their practical applications
-- Building efficient DevOps workflows for on-premise infrastructures
+- Building efficient DevOps workflows for on-premises infrastructures
 - Contributing to open-source projects
 
 ## 📫 Let's Connect
