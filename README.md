@@ -1,23 +1,19 @@
-# Hello! 👋 Welcome to my GitHub profile
+# Hi there! 👋
 
 ## 🚀 About Me
-I'm a passionate technology enthusiast with a strong focus on **Python**, **AI**, and **DevOps**.
+Technology enthusiast focused on **Python**, **AI**, and **DevOps**.
 
 ## 💻 Technologies & Interests
-### Programming & AI
-- 🐍 **Python** - My primary programming language for development and automation
-- 🤖 **Artificial Intelligence** - Using AI-powered chatbots to improve my code and speed up my work.
+- 🐍 **Python** - Development and automation
+- 🤖 **AI** - Leveraging AI-powered tools for code improvement
+- 🔧 **DevOps** - CI/CD automation and infrastructure as code
+- 🏢 **On-Premises Infrastructure** - Self-hosted solutions and system administration
 
-### DevOps & Infrastructure
-- 🔧 **DevOps** - Automation
-- 🏢 **On-Premises Environments** - Building and managing self-hosted solutions
-- ⚙️ System administration and infrastructure management
-
-## 🌱 What I'm Working On
-- Developing Python-based solutions for real-world problems
-- Exploring AI technologies and their practical applications
-- Building efficient DevOps workflows for on-premises infrastructures
+## 🌱 Current Focus
+- Building Python solutions for real-world problems
+- Exploring practical AI applications
+- Developing DevOps workflows for on-premises environments
 - Contributing to open-source projects
 
-## 📫 Let's Connect
-Feel free to explore my repositories and reach out on LinkedIn if you'd like to collaborate on projects involving Python, AI, or DevOps!
+## 📫 Connect
+Explore my repositories or reach out on LinkedIn to collaborate!
